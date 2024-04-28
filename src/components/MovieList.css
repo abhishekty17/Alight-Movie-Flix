@@ -1,0 +1,14 @@
+.allmovieimg {
+    height: 40vh;
+    width: 20vw;
+}
+
+.allmovieflex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+}
+.allmoviecontent{
+    width: 30vw;
+}
